@@ -1,10 +1,20 @@
-  body {
-    background-color: black;
-    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
-  }
-  #stream {
-    height: 99%;
-    margin: 0px auto;
-    display: block;
-    margin-top: 20px;
-  }
+body {
+  background-color: black;
+  font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+}
+#stream {
+  height: 99%;
+  margin: 0px auto;
+  display: block;
+  margin-top: 20px;
+}
+
+#title{
+  padding-top: 10%;
+  color: white;
+}
+
+button {
+  border-radius: 2px solid white;
+  /*background-color: black;*/
+}
